@@ -1,6 +1,7 @@
 def check_vowels():
     # Código a implementar utilizando input.
     Matias=input()
+    Matias=nombre.lower
     print(f"Contiene a: {"a" in "Matias"}" )
     print(f"Contiene e: {"e" in "Matias"}" )
     print(f"Contiene i: {"i" in "Matias"}" )
